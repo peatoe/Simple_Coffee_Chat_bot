@@ -48,6 +48,6 @@ def order_mocha():
     elif res == 'b':
       return 'mocha'
     
-    print_messgae()
+    print_message()
 
 coffee_bot()
