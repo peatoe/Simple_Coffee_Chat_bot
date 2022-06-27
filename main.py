@@ -39,7 +39,6 @@ def get_drink_type():
     print_message()
     return get_drink_type()
   
-# Define new functions here!
 def order_mocha():
   while True:
     res = input("Would you like to try our limited-edition peppermint mocha?\n[a] Sure!\n[b] Maybe next time!")
